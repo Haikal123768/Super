@@ -1,0 +1,4 @@
+id,name,service,account_id,balance,currency,source,notes,last_updated,status_transaksi
+1,Pribadi Gembe X1,gembe.x1,081234567890,100000,IDR,Rekening Bank,Catatan pribadi,2026-07-10,active
+2,Pribadi Gembe X2,gembe.x2,081234567891,50000,IDR,Debit Card,Saldo utama,2026-07-10,active
+3,Pribadi Gembe X3,gembe.x3,081234567892,75000,IDR,Top-up,Untuk belanja,2026-07-10,pending
